@@ -19,7 +19,6 @@ more-itertools==10.6.0
 packaging==24.2
 psycopg2==2.9.10
 python-dotenv==1.0.1
-sqlacodegen==2.3.0.post1
 SQLAlchemy==2.0.38
 typeguard==4.4.2
 typing_extensions==4.12.2
